@@ -1,7 +1,7 @@
 # CloudLedger — End-to-End DevOps Automation Platform (ENSP461 Capstone)
 
-**Student:** Abhinav Kumar (`2301730191`)  
-**Repository:** https://github.com/theabhinav0231/devops-capstone  
+**Student:** Sudhanshu Ranjan Singh (`2301730207`)  
+**Repository:** https://github.com/2301730207Sudhanshu/Devops-capstone
 **Domain Application:** CloudLedger — FinTech Payment & Transaction Ledger Microservice  
 **Environment:** Ubuntu 24.04 LTS (WSL2) | Docker | Kubernetes (Minikube) | Terraform | Ansible | Prometheus | HashiCorp Vault | Trivy
 
